@@ -1,0 +1,5 @@
+c:\users\barslan\documents\visual studio 2013\Projects\InterfaceDesign\InterfaceDesign\bin\Debug\InterfaceDesign.exe.config
+c:\users\barslan\documents\visual studio 2013\Projects\InterfaceDesign\InterfaceDesign\bin\Debug\InterfaceDesign.exe
+c:\users\barslan\documents\visual studio 2013\Projects\InterfaceDesign\InterfaceDesign\bin\Debug\InterfaceDesign.pdb
+c:\users\barslan\documents\visual studio 2013\Projects\InterfaceDesign\InterfaceDesign\obj\Debug\InterfaceDesign.exe
+c:\users\barslan\documents\visual studio 2013\Projects\InterfaceDesign\InterfaceDesign\obj\Debug\InterfaceDesign.pdb
